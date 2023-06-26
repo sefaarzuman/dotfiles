@@ -1,8 +1,0 @@
-############
-# programs #
-############
-
-# i3 rofi polybar alacritty vim zsh lxappearance gvfs gvfs-mtp gvfs-gphoto2 dunst pavucontrol lightdm-gtk-greeter-settings flameshot scrot picom geany gpick firefox libreoffice htop mousepad neofetch nitrogen ranger ristretto feh thunar thunar-volman thunar-archive-plugin gsimplecal calcurse
-# awesome-terminal-fonts ttf-font-awesome ttf-jetbrains-mono
-# nvidia nvidia-settings nvidia-utils nvidia-prime
-# autotiling timeshift obs kdenlive
